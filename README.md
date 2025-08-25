@@ -1,7 +1,5 @@
 # Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
-
-
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
 </div>
@@ -32,6 +30,7 @@
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="50" height="50"/>
   <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="c++" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt="arduino" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/SQL_Logo_2016.svg/1024px-SQL_Logo_2016.svg.png" alt="sql" width="50" height="50"/>
 </p>
 
 ---
@@ -43,19 +42,28 @@
 
 ---
 
-### ⚡ Quote
+### ⚡ إقتــــــباس
 
-<!--STARTS_HERE_QUOTE_README-->
-• <i>“إذا كان الإنسان ذا أخلاق فهو = ١،<br>
+<i>إذا كان الإنسان ذا أخلاق فهو = ١<br>
 وإذا كان ذا جمال فأضف صفراً ليصبح ١٠،<br>
 وإذا كان ذا مال فأضف صفراً آخر ليصبح ١٠٠،<br>
 وإذا كان ذا حسب ونسب فأضف صفراً آخر ليصبح ١٠٠٠.<br>
 فإذا ذهب العدد واحد وهو الأخلاق، ذهبت قيمة الإنسان وبقيت الأصفار التي لا قيمة لها-” <strong>– محمد بن موسى الخوارزمي</strong></i>
-<!--ENDS_HERE_QUOTE_README-->
 
 ---
 
+### 📬 Contacts
 
+- 📧 **Email:** mo20003173@gmial.com
 
---Contacts :
-gemail: mo20003173@gmial.com
+---
+
+### 🎮 Fun GIFs & Quotes
+
+<div align="center">
+  <img src="https://media.giphy.com/media/8r7jjlWQ0D76mDwmvD/giphy.gif" width="350" />
+</div>
+
+---
+
+### 💬 "Genius is one percent inspiration and ninety-nine percent perspiration." - **Thomas Edison **
