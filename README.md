@@ -1,8 +1,8 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>MOKOPA</title>
+
 <style>
 /* CSS STYLES HERE (trimmed for brevity) */
 </style>
