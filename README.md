@@ -31,7 +31,7 @@
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css3" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="50" height="50"/>
-  <img src="[https://www.vectorlogo.zone/logos/cplusplus/cplusplus-icon.svg](https://www.flaticon.com/free-icon/c_6132222)" alt="c++" width="50" height="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="c++" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt="arduino" width="50" height="50"/>
 </p>
 
@@ -44,17 +44,15 @@
 
 ---
 
-### ⚡ Random Dev Quote
+### ⚡ Quote
 
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</i>
+• <i>“إذا كان الإنسان ذا أخلاق فهو = ١، وإذا كان ذا جمال فأضف صفراً ليصبح ١٠، وإذا كان ذا مال فأضف صفراً آخر ليصبح ١٠٠، وإذا كان ذا حسب ونسب فأضف صفراً آخر ليصبح ١٠٠٠. فإذا ذهب العدد واحد وهو الأخلاق، ذهبت قيمة الإنسان وبقيت الأصفار التي لا قيمة لها-” <strong>– محمد بن موسى الخوارزمي</strong></i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ---
 
-### <img align="left" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="30" /> A Little Humor
 
-<img src="https://readme-jokes.vercel.app/api" alt="Joke" />
 
 --Contacts :
 gemail: mo20003173@gmial.com
