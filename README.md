@@ -1,13 +1,12 @@
 # Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
-<p align="center">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="30" width="30" />&nbsp;
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="30" />&nbsp;
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="discord" height="40" width="30" />
-</p>
+
 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+</div>
+<div align="center">
+  <img src="https://i.gifer.com/4Cb2.gif" width="400" />
 </div>
 
 ---
@@ -47,7 +46,11 @@
 ### ⚡ Quote
 
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“إذا كان الإنسان ذا أخلاق فهو = ١، وإذا كان ذا جمال فأضف صفراً ليصبح ١٠، وإذا كان ذا مال فأضف صفراً آخر ليصبح ١٠٠، وإذا كان ذا حسب ونسب فأضف صفراً آخر ليصبح ١٠٠٠. فإذا ذهب العدد واحد وهو الأخلاق، ذهبت قيمة الإنسان وبقيت الأصفار التي لا قيمة لها-” <strong>– محمد بن موسى الخوارزمي</strong></i>
+• <i>“إذا كان الإنسان ذا أخلاق فهو = ١،<br>
+وإذا كان ذا جمال فأضف صفراً ليصبح ١٠،<br>
+وإذا كان ذا مال فأضف صفراً آخر ليصبح ١٠٠،<br>
+وإذا كان ذا حسب ونسب فأضف صفراً آخر ليصبح ١٠٠٠.<br>
+فإذا ذهب العدد واحد وهو الأخلاق، ذهبت قيمة الإنسان وبقيت الأصفار التي لا قيمة لها-” <strong>– محمد بن موسى الخوارزمي</strong></i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ---
