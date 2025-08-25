@@ -13,6 +13,7 @@
 
 - 🧑‍💻 I'm **Mostafa Salah**, a beginner with a strong interest in tech and development.
 - 📘 I have sufficient knowledge in the following skills:
+  - HTML, CSS
   - SQL
   - C++, C
 - 🔧 Currently learning and building small projects to sharpen my skills.
@@ -24,6 +25,8 @@
 ### 🧠 Skills & Tools
 
 <p align="center">
+  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css3" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="50" height="50"/>
   <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="c++" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt="arduino" width="50" height="50"/>
@@ -56,13 +59,3 @@
 - 📧 **Email:** mo20003173@gmial.com
 
 ---
-
-### 🎮 Fun GIFs & Quotes
-
-<div align="center">
-  <img src="https://media.giphy.com/media/8r7jjlWQ0D76mDwmvD/giphy.gif" width="350" />
-</div>
-
----
-
-### 💬 "Genius is one percent inspiration and ninety-nine percent perspiration." - **Thomas Edison**
