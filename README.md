@@ -31,7 +31,7 @@
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css3" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/cplusplus/cplusplus-icon.svg" alt="c++" width="50" height="50"/>
+  <img src="[https://www.vectorlogo.zone/logos/cplusplus/cplusplus-icon.svg](https://www.flaticon.com/free-icon/c_6132222)" alt="c++" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt="arduino" width="50" height="50"/>
 </p>
 
