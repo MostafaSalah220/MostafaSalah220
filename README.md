@@ -33,9 +33,6 @@
 
 ### ⭐ GitHub Stats
 
-#### Total Contributions:
-![Total Contributions](https://github-readme-stats.vercel.app/api/wakatime?username=your-github-username&theme=radical)
-
 #### C++:
 ![Mostafa's C++ GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
