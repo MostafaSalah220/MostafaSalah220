@@ -30,15 +30,20 @@
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="50" height="50"/>
   <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="c++" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt="arduino" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/SQL_Logo_2016.svg/1024px-SQL_Logo_2016.svg.png" alt="sql" width="50" height="50"/>
 </p>
 
 ---
 
-### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif' width='25' /> GitHub Stats
+### ⭐ GitHub Stats
 
-![Mostafa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+#### HTML & CSS:
+![HTML CSS Stars](https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=html-css-projects&theme=radical)
+
+#### C++:
+![Mostafa's C++ GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+
+#### Top Languages:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
 
 ---
 
@@ -66,4 +71,4 @@
 
 ---
 
-### 💬 "Genius is one percent inspiration and ninety-nine percent perspiration." - **Thomas Edison **
+### 💬 "Genius is one percent inspiration and ninety-nine percent perspiration." - **Thomas Edison**
