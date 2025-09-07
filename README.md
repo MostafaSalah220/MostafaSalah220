@@ -1,4 +1,4 @@
-# Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
+<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/17f522f3-e37a-438b-b401-79341020fa8b" /># Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
@@ -29,7 +29,7 @@
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css3" width="50" height="50"/>
    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="arduino" width="50" height="50"/>
-  <img src="https://cdn.prod.website-files.com/627fe3133bae75e7bfbb9b2a/66922a2f5485bcd665857545_32a03aee0c76419ec5bde950a62883bc-p-500.png" alt="sql server" width="150" height="150"/>
+  <img src="https://cdn.prod.website-files.com/627fe3133bae75e7bfbb9b2a/66922a2f5485bcd665857545_32a03aee0c76419ec5bde950a62883bc-p-500.png" alt="sql server" width="80" height="80"/>
   <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="c++" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt="arduino" width="50" height="50"/>
 </p>
@@ -60,10 +60,11 @@
   <br> 
   "Talk is cheap, show me the code" - Linus Torvalds
 </p>
+
 ---
 
 ### 📬 Contacts
 
 - 📧 **Email:** mo20003173@gmial.com
-- in **Linked in:** www.linkedin.com/in/mostafa-salah-abdallah-2867762a1
+- 📧 **Linked in:** www.linkedin.com/in/mostafa-salah-abdallah-2867762a1
 ---
