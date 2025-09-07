@@ -29,7 +29,7 @@
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css3" width="50" height="50"/>
    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="arduino" width="50" height="50"/>
-  <img src="https://cdn.prod.website-files.com/627fe3133bae75e7bfbb9b2a/66922a2f5485bcd665857545_32a03aee0c76419ec5bde950a62883bc-p-500.png" alt="sql server" width="50" height="50"/>
+  <img src="https://cdn.prod.website-files.com/627fe3133bae75e7bfbb9b2a/66922a2f5485bcd665857545_32a03aee0c76419ec5bde950a62883bc-p-500.png" alt="sql server" width="150" height="150"/>
   <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="c++" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt="arduino" width="50" height="50"/>
 </p>
@@ -54,7 +54,12 @@
 وإذا كان ذا مال فأضف صفراً آخر ليصبح ١٠٠،<br>
 وإذا كان ذا حسب ونسب فأضف صفراً آخر ليصبح ١٠٠٠.<br>
 فإذا ذهب العدد واحد وهو الأخلاق، ذهبت قيمة الإنسان وبقيت الأصفار التي لا قيمة لها.” <strong>– محمد بن موسى الخوارزمي</strong></i>
-<br><p dir="ltr"> <hr><strong> Quote </strong>  <br> "Talk is cheap, show me the code" - Linus Torvalds</p>
+<p dir="ltr"> 
+  <hr>
+  <strong> Quote </strong>  
+  <br> 
+  "Talk is cheap, show me the code" - Linus Torvalds
+</p>
 ---
 
 ### 📬 Contacts
