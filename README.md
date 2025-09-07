@@ -1,4 +1,4 @@
-<!- <img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/17f522f3-e37a-438b-b401-79341020fa8b" />--># Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
+ # Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
@@ -66,5 +66,5 @@
 ### 📬 Contacts
 
 - 📧 **Email:** mo20003173@gmial.com
-- 📧 **Linked in:** www.linkedin.com/in/mostafa-salah-abdallah-2867762a1
+- 💼 **Linked in:** www.linkedin.com/in/mostafa-salah-abdallah-2867762a1
 ---
