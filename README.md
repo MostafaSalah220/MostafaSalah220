@@ -29,7 +29,7 @@
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css3" width="50" height="50"/>
    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="arduino" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="50" height="50"/>
+  <img src="[https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2019/10/logo.png)" alt="sql server" width="50" height="50"/>
   <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="c++" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt="arduino" width="50" height="50"/>
 </p>
@@ -54,7 +54,7 @@
 وإذا كان ذا مال فأضف صفراً آخر ليصبح ١٠٠،<br>
 وإذا كان ذا حسب ونسب فأضف صفراً آخر ليصبح ١٠٠٠.<br>
 فإذا ذهب العدد واحد وهو الأخلاق، ذهبت قيمة الإنسان وبقيت الأصفار التي لا قيمة لها.” <strong>– محمد بن موسى الخوارزمي</strong></i>
-<br> <hr><strong> Quote <strong>  <br> "Talk is cheap, show me the code" - Linus Torvalds
+<br> <hr><strong> Quote <strong dir="ltr">  <br> "Talk is cheap, show me the code" - Linus Torvalds
 ---
 
 ### 📬 Contacts
